@@ -3,7 +3,7 @@ Module/Week 5 Challenge
 
 Deployment: https://yeletta.github.io/Work-Day-Scheduler/
 
-Repo: https://github.com/Yeletta/Work-Day-Scheduler![image]
+Repo: https://github.com/Yeletta/Work-Day-Scheduler
 
 
 
