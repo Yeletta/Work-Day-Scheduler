@@ -1,6 +1,13 @@
 # Work-Day-Scheduler
 Module/Week 5 Challenge
 
+Deployment: https://yeletta.github.io/Work-Day-Scheduler/
+
+Repo: https://github.com/Yeletta/Work-Day-Scheduler![image]
+
+(https://user-images.githubusercontent.com/108251293/234396074-dd173571-bf65-43e5-8a7d-790579f51548.png)
+
+
 Title: Work Day Scheduler
 
 Project Description
@@ -30,3 +37,4 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+<img width="506" alt="Screenshot 2023-04-24 at 7 17 18 PM" src="https://user-images.githubusercontent.com/108251293/234395980-390fbf00-b0ab-424d-90d3-eab0d1754e68.png">
